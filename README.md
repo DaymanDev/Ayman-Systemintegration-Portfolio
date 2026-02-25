@@ -33,7 +33,7 @@ Virtualisierung und Systemadministration weiter und suche einen
 
 ## 📁 Meine Projekte
 
-🌐 [CCNA Lernnotizen](https://github.com/deinbenutzername/ccna-lernnotizen)
+🌐 [CCNA Lernnotizen](https://github.com/DaymanDev/ccna-lernnotizen)
 🐧 [Linux Skripte](https://github.com/deinbenutzername/linux-skripte)
 ⚡ [Homelab Dokumentation](https://github.com/deinbenutzername/homelab-dokumentation)
 💾 [Veeam Backup Guide](https://github.com/deinbenutzername/veeam-backup-guide)
