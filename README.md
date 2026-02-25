@@ -1,32 +1,45 @@
-# Ayman-Systemintegration-Portfolio
-Mein Home-Lab Portfolio fur Ausbildung Fachinformatiker Systemintegration - CCNA, Fortinet NSE4, Linux &amp; mehr
+# Hallo, ich bin Aymane 👋
 
+Angehender **Fachinformatiker Systemintegration** aus Marokko.
 
+Ich bilde mich aktiv in den Bereichen Netzwerktechnik, IT-Sicherheit, 
+Virtualisierung und Systemadministration weiter und suche einen 
+**Ausbildungsplatz als Fachinformatiker Systemintegration**.
 
-Hallo! Ich bin Ayman aus Marokko und lerne selbstständig IT-Systemintegration.  
-Hier dokumentiere ich meine Projekte aus Kursen (CCNA, NSE4, Linux, Proxmox, Veeam, VMware, Windows Server).
+---
 
-**Aktuelle Skills :**  
-- Netzwerke: CCNA (Prüfung geplant)  
-- Security: Fortinet NSE4 Training  
-- Linux Server Administration  
-- Virtualisierung: Proxmox VE + VMware vSphere Basics  
-- Backup: Veeam Backup & Replication  
-- Windows: Server Konfiguration (MCSA / AZ-800 Wissen)
+## 🏅 Zertifizierungen & Kurse
 
-**Meine Projekte** (klicke auf die Links für Details + Screenshots/Diagramme):
+| Kurs | Themen | Status |
+|------|--------|--------|
+| 🌐 CCNA (Cisco) | Routing, Switching, VLANs, Subnetting | 🔄 Prüfungsvorbereitung |
+| 🔒 NSE4 (Fortinet) | Firewall, VPN, UTM, Netzwerksicherheit | ✅ Abgeschlossen |
+| 🐧 Linux 1 & 2 | Systemadministration, Shell, Scripting | ✅ Abgeschlossen |
+| ⚡ Proxmox VE + VMware vSphere | Virtualisierung, VMs, Storage | ✅ Abgeschlossen |
+| 💾 Veeam Backup & Replication | Backup, Disaster Recovery | ✅ Abgeschlossen |
+| 🪟 MCSA (Microsoft) | Windows Server, Active Directory, GPO | ✅ Abgeschlossen |
 
-1. **CCNA Netzwerk-Simulation**  
-   VLANs, Routing, NAT, ACL – mit Cisco Packet Tracer  
-   → [Zum Projekt](projects/01-ccna-network)
+---
 
-2. **Proxmox VE Cluster + Veeam Backup**  
-   HA-Cluster, VM-Migration, Backup-Jobs & Restore-Tests  
-   → [Zum Projekt](projects/04-proxmox-veeam)
+## 🛠️ Technische Fähigkeiten
 
-(Add more as you finish them)
+**Netzwerk:** TCP/IP · VLANs · OSPF · DNS · DHCP · Subnetting · Cisco IOS  
+**Sicherheit:** FortiGate · Firewall · VPN · UTM  
+**Virtualisierung:** Proxmox VE · VMware vSphere · Hyper-V  
+**Betriebssysteme:** Linux (Debian/Ubuntu) · Windows Server · Active Directory  
+**Backup:** Veeam · 3-2-1-Strategie · Disaster Recovery  
 
-**GitHub-Link für Bewerbungen:**  
-https://github.com/[dein-username]/ayman-fisi-homelab
+---
 
-Fragen? Schreib mir gerne!
+## 📁 Meine Projekte
+
+- 🌐 [CCNA Lernnotizen](../ccna-lernnotizen) – Zusammenfassungen, Subnetting-Übungen, Packet Tracer Labs
+- 🐧 [Linux Skripte](../linux-skripte) – Bash-Skripte aus meinen Linux-Kursen
+- ⚡ [Homelab Dokumentation](../homelab-dokumentation) – Proxmox & VMware Aufbau
+- 💾 [Veeam Backup Guide](../veeam-backup-guide) – Backup-Konfiguration & DR-Runbooks
+- 🪟 [Windows Server Labs](../windows-server-labs) – AD, GPO, DNS, DHCP Übungen
+
+---
+
+📧 **Kontakt:** aymanelmamoun9@gmail.com  
+📍 **Standort:** Settat, Marokko
