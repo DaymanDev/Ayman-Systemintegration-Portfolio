@@ -33,11 +33,11 @@ Virtualisierung und Systemadministration weiter und suche einen
 
 ## 📁 Meine Projekte
 
-- 🌐 [CCNA Lernnotizen](../ccna-lernnotizen) – Zusammenfassungen, Subnetting-Übungen, Packet Tracer Labs
-- 🐧 [Linux Skripte](../linux-skripte) – Bash-Skripte aus meinen Linux-Kursen
-- ⚡ [Homelab Dokumentation](../homelab-dokumentation) – Proxmox & VMware Aufbau
-- 💾 [Veeam Backup Guide](../veeam-backup-guide) – Backup-Konfiguration & DR-Runbooks
-- 🪟 [Windows Server Labs](../windows-server-labs) – AD, GPO, DNS, DHCP Übungen
+🌐 [CCNA Lernnotizen](https://github.com/deinbenutzername/ccna-lernnotizen)
+🐧 [Linux Skripte](https://github.com/deinbenutzername/linux-skripte)
+⚡ [Homelab Dokumentation](https://github.com/deinbenutzername/homelab-dokumentation)
+💾 [Veeam Backup Guide](https://github.com/deinbenutzername/veeam-backup-guide)
+🪟 [Windows Server Labs](https://github.com/deinbenutzername/windows-server-labs)
 
 ---
 
